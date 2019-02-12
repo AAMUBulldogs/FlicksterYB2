@@ -28,10 +28,11 @@
 	
 	### App Walkthough GIF
 	src="https://github.com/AAMUBulldogs/FlicksterYB/blob/master/MovieYB.gif width=250><br>
-src=
+src=https://github.com/AAMUBulldogs/FlicksterYB2/blob/master/MovieYBPt.gif
 ` 
 
 ### Notes
+I did add landscape view, and added date the movie was plubished.
 Very Time Consuming. But very fun todo.
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
